@@ -2,6 +2,7 @@ body {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
+  background-color: #aaa;
 }
 body p {
   font-weight: 100;
